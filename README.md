@@ -1,7 +1,7 @@
 - Hi, I’m @vZapez
 - I’m interested in Programming
-- I’m currently learning Javascript and planning to learn c#
-- How to reach me vZapez#3520
+- I’m currently learning Javascript 
+- 
 
 <!---
 vZapez/vZapez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
